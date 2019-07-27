@@ -153,7 +153,7 @@ namespace Project2Tuition
                 Console.WriteLine("\nERROR: " + err.Message);
             }
         }
-
+        // display header function
         private static void displayHeader()
         {
             Console.WriteLine("Canadian Undergraduate Tuition Fees");
