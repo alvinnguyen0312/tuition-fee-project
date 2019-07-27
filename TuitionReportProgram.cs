@@ -54,7 +54,7 @@ namespace Project2Tuition
                         //Display all fields of study
                         displayStudyFields(nav);
                         Console.WriteLine();
-                        do
+                        do // validate input
                         {
                             validInput = true;
                             Console.Write("Enter a field #: ");
